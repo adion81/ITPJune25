@@ -4,15 +4,10 @@
 
 ### What we will be building
 
-<img src="https://github.com/adion81/intro-to-programming/blob/master/img/illTemperedPenguins.png" alt="Ill Tempered Penguins" width="500px" />
-
+// Add Image here
 ##### Img links
+// Add Image links here
 
-<p>https://4.bp.blogspot.com/-bhxZWU5aoRk/VYG5mQk97xI/AAAAAAAApzE/1jKETmw8ctg/s1600/00000.jpg</p><br>
-<p>https://www.kindpng.com/picc/m/761-7617908_the-scary-gary-on-a-player-card-penguin.png</p><br>
-<p>https://media.istockphoto.com/photos/3d-penguin-with-a-chainsaw-picture-id520444083?k=6&m=520444083&s=612x612&w=0&h=XPr672mCGDydn64VvMlUYjo5neAItKsgKCom83-UMgQ=</p><br>
-<p>https://www.si.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTY4MDA3NDUyMjczNDg1MTg0/penguins-evgeni-malkin-injuryjpg.jpg</p><br>
-<p>https://cdn2.vectorstock.com/i/1000x1000/05/81/blue-ice-background-vector-11000581.jpg</p>
 
 ## Request Response Cycle
 
@@ -90,12 +85,12 @@ Every HTML element has an opening tag `<h1>` and a closing tag `</h1>`
     <p>This is some information.</p>
 
     <!-- unordered lists will display a list items with bullet points -->
-    <ol>
+    <ul>
         <li>First</li>
         <li>Second</li>
         <li>Third</li>
         <li>Fourth</li>
-    </ol>
+    </ul>
 
     <!-- forms are used so that the user can send info to the server. -->
     <form action="#" method="POST">
@@ -140,7 +135,7 @@ We can give the html tags attributes of `class` or `id` to narrow down the CSS s
 
     <body>
         <p class="blue">Some text here</p>
-        <p >Some text here</p>
+        <p>Some text here</p>
         <p class="blue">Some text here</p>
         <p id="special">Some text here</p>
         <p class="blue">Some text here</p>
@@ -243,4 +238,4 @@ shuffle(numArr);
 <a href="https://flexboxfroggy.com/" target="_blank">Flex Box Froggy</a><br>
 <a href="https://flukeout.github.io/" target="_blank">CSS Diner</a><br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">All Things JavaScript</a><br>
-<a href="https://codepen.io/adion81/pen/GRpaZPZ" target="_blank">Ill Tempered Penguings on Code Pen</a>
+<a href="#" target="_blank">Code Pen Link to Demo</a>
