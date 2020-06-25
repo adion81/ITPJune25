@@ -258,4 +258,4 @@ shuffle(numArr);
 <a href="https://flexboxfroggy.com/" target="_blank">Flex Box Froggy</a><br>
 <a href="https://flukeout.github.io/" target="_blank">CSS Diner</a><br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">All Things JavaScript</a><br>
-<a href="#" target="_blank">Code Pen Link to Demo</a>
+<a href="https://codepen.io/adion81/pen/vYLZaXe" target="_blank">Code Pen Link to Demo</a>
