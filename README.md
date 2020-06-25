@@ -4,7 +4,7 @@
 
 ### What we will be building
 
-// Add Image here
+<img src="" alt="request response"  width="500px"/>
 ##### Img links
 // Add Image links here
 
