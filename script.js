@@ -32,7 +32,7 @@ var sharks = [
         img:"https://www.elasmodiver.com/Sharkive%20images/CaribbeanReefShark112.jpg"
     },
     {
-        name:"Pierie",
+        name:"Pierre",
         img:"https://ecochiccayman.files.wordpress.com/2017/07/nurse-shark-with-hook.png"
     },
 
